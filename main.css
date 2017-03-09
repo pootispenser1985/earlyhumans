@@ -1,0 +1,17 @@
+#copyright {
+  padding-top: 25px;
+}
+
+#familyPic {
+  width: inherit;
+  height: inherit;
+}
+
+#footer {
+  margin-top: 25px;
+}
+
+#footer i {
+  font-size: 2em;
+  margin-right: 1em;
+}
