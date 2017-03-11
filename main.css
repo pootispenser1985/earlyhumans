@@ -1,10 +1,14 @@
+#bio {
+  margin-top: 25px;
+}
+
 #copyright {
   padding-top: 25px;
 }
 
 #familyPic {
-  width: inherit;
-  height: inherit;
+  height: auto;
+  max-width: 100%;
 }
 
 #footer {
@@ -13,5 +17,13 @@
 
 #footer i {
   font-size: 2em;
-  margin-right: 1em;
+}
+
+#footer div {
+  color: #899CBA;
+  text-align: center;
+}
+
+#title {
+  padding-bottom: 15px;
 }
